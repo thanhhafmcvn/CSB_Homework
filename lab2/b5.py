@@ -1,0 +1,7 @@
+deposit = float(input('Deposit: '))
+after_one_year = deposit*(1.05)
+after_two_years = deposit*pow(1.05,2)
+after_ten_years = deposit*pow(1.05,10)
+print(f'Account after 1 year: {after_one_year}')
+print(f'Account after 2 years: {after_two_years}')
+print(f'Account after 10 years: {after_ten_years}')

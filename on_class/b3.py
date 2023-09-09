@@ -1,0 +1,6 @@
+first_number = float(input('Enter first number: '))
+second_number = float(input('Enter second number: '))
+print(f'a+b: {first_number+second_number}')
+print(f'a-b: {first_number-second_number}')
+print(f'a*b: {first_number*second_number}')
+print(f'a/b: {first_number/second_number}')

@@ -1,0 +1,6 @@
+right(37)
+# forward((sqrt(pow(150,2)+ pow(200,2)))/2)
+# left(74)
+# forward((sqrt(pow(150,2)+ pow(200,2)))/2)
+# penup()
+# right(125)
